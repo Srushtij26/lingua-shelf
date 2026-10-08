@@ -2,7 +2,7 @@
 
 A small, community-friendly guide for language learners: **books** about a language's history by authors rooted in it, and **movies/series** that show the language at its best, with the **platform** each is available on (no links).
 
-Languages so far: Spanish, French, German, Japanese, Hindi, Korean.
+Languages so far: English, French, German, Hindi, Irish, Japanese, Korean, Marathi, Portuguese, Spanish, Tamil, Telugu, Chinese (Mandarin). Missing yours? Add it, see below.
 
 ## Run it
 

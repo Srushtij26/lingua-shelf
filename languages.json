@@ -1,0 +1,653 @@
+{
+ "Chinese (Mandarin)": {
+  "native": "中文",
+  "accent": "#b91c1c",
+  "books": [
+   {
+    "title": "The Chinese Language: Fact and Fantasy",
+    "author": "John DeFrancis",
+    "type": "history",
+    "why": "Clears up myths about characters and Chinese speech."
+   },
+   {
+    "title": "Call to Arms",
+    "author": "Lu Xun",
+    "type": "literature",
+    "why": "Early modern fiction in vernacular Chinese."
+   },
+   {
+    "title": "Dream of the Red Chamber",
+    "author": "Cao Xueqin",
+    "type": "literature",
+    "why": "The great classical novel of Chinese literature."
+   }
+  ],
+  "movies": [
+   {
+    "title": "Eat Drink Man Woman",
+    "year": 1994,
+    "platforms": [
+     "Check JustWatch"
+    ],
+    "why": "Everyday Mandarin around food and family."
+   },
+   {
+    "title": "Farewell My Concubine",
+    "year": 1993,
+    "platforms": [
+     "Check JustWatch"
+    ],
+    "why": "Opera, poetry and a century of Chinese history."
+   },
+   {
+    "title": "Hero",
+    "year": 2002,
+    "platforms": [
+     "Check JustWatch"
+    ],
+    "why": "Calligraphy and classical speech."
+   }
+  ]
+ },
+ "English": {
+  "native": "English",
+  "accent": "#334155",
+  "books": [
+   {
+    "title": "The Story of English",
+    "author": "Robert McCrum, William Cran & Robert MacNeil",
+    "type": "history",
+    "why": "How English grew from Old English to a world language."
+   },
+   {
+    "title": "Hamlet",
+    "author": "William Shakespeare",
+    "type": "literature",
+    "why": "Shakespeare helped shape the vocabulary and rhythm of English."
+   },
+   {
+    "title": "Things Fall Apart",
+    "author": "Chinua Achebe",
+    "type": "literature",
+    "why": "English bent to carry Igbo proverbs and storytelling."
+   }
+  ],
+  "movies": [
+   {
+    "title": "My Fair Lady",
+    "year": 1964,
+    "platforms": [
+     "Rent/buy: Apple TV, Prime Video"
+    ],
+    "why": "A film about accent, class and learning to speak."
+   },
+   {
+    "title": "The King's Speech",
+    "year": 2010,
+    "platforms": [
+     "Check JustWatch"
+    ],
+    "why": "The craft and difficulty of spoken English."
+   },
+   {
+    "title": "Pride & Prejudice",
+    "year": 2005,
+    "platforms": [
+     "Check JustWatch"
+    ],
+    "why": "Austen's witty, formal English on screen."
+   }
+  ]
+ },
+ "French": {
+  "native": "Français",
+  "accent": "#1d4ed8",
+  "books": [
+   {
+    "title": "The Story of French",
+    "author": "Jean-Benoit Nadeau & Julie Barlow",
+    "type": "history",
+    "why": "From Gaul to la Francophonie, with the politics behind the language."
+   },
+   {
+    "title": "Les Misérables",
+    "author": "Victor Hugo",
+    "type": "literature",
+    "why": "The grand register of 19th-century French."
+   },
+   {
+    "title": "The Stranger",
+    "author": "Albert Camus",
+    "type": "literature",
+    "why": "Short, plain sentences; a good first French novel."
+   }
+  ],
+  "movies": [
+   {
+    "title": "Amélie",
+    "year": 2001,
+    "platforms": [
+     "Rent/buy: Apple TV, Prime Video"
+    ],
+    "why": "Playful Parisian French and wordplay."
+   },
+   {
+    "title": "Portrait of a Lady on Fire",
+    "year": 2019,
+    "platforms": [
+     "Rent/buy: Apple TV, Prime Video"
+    ],
+    "why": "Slow, clear, beautifully spoken dialogue."
+   },
+   {
+    "title": "Lupin (series)",
+    "year": 2021,
+    "platforms": [
+     "Netflix"
+    ],
+    "why": "Modern spoken French, including slang."
+   }
+  ]
+ },
+ "German": {
+  "native": "Deutsch",
+  "accent": "#0f766e",
+  "books": [
+   {
+    "title": "The Awful German Language",
+    "author": "Mark Twain",
+    "type": "history",
+    "why": "A funny outsider's essay on German grammar (in A Tramp Abroad)."
+   },
+   {
+    "title": "Faust",
+    "author": "Johann Wolfgang von Goethe",
+    "type": "literature",
+    "why": "The poem that shaped modern literary German."
+   },
+   {
+    "title": "The Metamorphosis",
+    "author": "Franz Kafka",
+    "type": "literature",
+    "why": "Precise, compact German prose."
+   }
+  ],
+  "movies": [
+   {
+    "title": "The Lives of Others",
+    "year": 2006,
+    "platforms": [
+     "Rent/buy: Apple TV, Prime Video"
+    ],
+    "why": "Careful, formal German in a tense East Berlin."
+   },
+   {
+    "title": "Dark (series)",
+    "year": 2017,
+    "platforms": [
+     "Netflix"
+    ],
+    "why": "Contemporary German, with dialect touches."
+   },
+   {
+    "title": "Run Lola Run",
+    "year": 1998,
+    "platforms": [
+     "Rent/buy: Apple TV, Prime Video"
+    ],
+    "why": "Fast, colloquial Berlin German."
+   }
+  ]
+ },
+ "Hindi": {
+  "native": "हिन्दी",
+  "accent": "#b45309",
+  "books": [
+   {
+    "title": "Hindi Sahitya ka Itihas",
+    "author": "Ramchandra Shukla",
+    "type": "history",
+    "why": "The standard history of Hindi literature, in Hindi."
+   },
+   {
+    "title": "Godaan",
+    "author": "Premchand",
+    "type": "literature",
+    "why": "Village life and the Hindi-Urdu register of its time."
+   },
+   {
+    "title": "Madhushala",
+    "author": "Harivansh Rai Bachchan",
+    "type": "literature",
+    "why": "Rhythmic Hindi verse, loved for its sound."
+   }
+  ],
+  "movies": [
+   {
+    "title": "Taare Zameen Par",
+    "year": 2007,
+    "platforms": [
+     "Check JustWatch: often Netflix or Prime Video in India"
+    ],
+    "why": "Clear, warm everyday Hindi."
+   },
+   {
+    "title": "Lagaan",
+    "year": 2001,
+    "platforms": [
+     "Check JustWatch: often Netflix or Prime Video in India"
+    ],
+    "why": "Awadhi-flavoured Hindi and classic song lyrics."
+   },
+   {
+    "title": "Masaan",
+    "year": 2015,
+    "platforms": [
+     "Check JustWatch: often Netflix or Prime Video in India"
+    ],
+    "why": "Banaras Hindi with a strong sense of place."
+   }
+  ]
+ },
+ "Irish": {
+  "native": "Gaeilge",
+  "accent": "#15803d",
+  "books": [
+   {
+    "title": "The Death of the Irish Language",
+    "author": "Reg Hindley",
+    "type": "history",
+    "why": "How and why Irish declined, and what remains."
+   },
+   {
+    "title": "The Islandman (An t-Oileánach)",
+    "author": "Tomás Ó Criomhthain",
+    "type": "literature",
+    "why": "A Blasket Islander's memoir in native Irish."
+   },
+   {
+    "title": "Cré na Cille (Graveyard Clay)",
+    "author": "Máirtín Ó Cadhain",
+    "type": "literature",
+    "why": "A modern Irish classic told entirely in dialogue."
+   }
+  ],
+  "movies": [
+   {
+    "title": "The Quiet Girl (An Cailín Ciúin)",
+    "year": 2022,
+    "platforms": [
+     "Check JustWatch"
+    ],
+    "why": "Gentle, sparse Irish."
+   },
+   {
+    "title": "Arracht",
+    "year": 2019,
+    "platforms": [
+     "Check JustWatch"
+    ],
+    "why": "Irish during the Great Famine."
+   },
+   {
+    "title": "Kneecap",
+    "year": 2024,
+    "platforms": [
+     "Check JustWatch"
+    ],
+    "why": "Irish-language hip-hop and modern slang."
+   }
+  ]
+ },
+ "Japanese": {
+  "native": "日本語",
+  "accent": "#be123c",
+  "books": [
+   {
+    "title": "The Japanese Language",
+    "author": "Haruhiko Kindaichi",
+    "type": "history",
+    "why": "A classic overview of the language's origins and writing systems."
+   },
+   {
+    "title": "The Tale of Genji",
+    "author": "Murasaki Shikibu",
+    "type": "literature",
+    "why": "Early 11th-century court prose, a root of Japanese literature."
+   },
+   {
+    "title": "Kokoro",
+    "author": "Natsume Sōseki",
+    "type": "literature",
+    "why": "Meiji-era Japanese, widely read in schools."
+   }
+  ],
+  "movies": [
+   {
+    "title": "Spirited Away",
+    "year": 2001,
+    "platforms": [
+     "Netflix (many regions)",
+     "HBO Max (US)"
+    ],
+    "why": "Clear speech and rich imagery of Japanese folklore."
+   },
+   {
+    "title": "Departures",
+    "year": 2008,
+    "platforms": [
+     "Rent/buy: Apple TV, Prime Video"
+    ],
+    "why": "Polite language and ritual vocabulary."
+   },
+   {
+    "title": "Shoplifters",
+    "year": 2018,
+    "platforms": [
+     "Rent/buy: Apple TV, Prime Video"
+    ],
+    "why": "Natural, everyday family conversation."
+   }
+  ]
+ },
+ "Korean": {
+  "native": "한국어",
+  "accent": "#6d28d9",
+  "books": [
+   {
+    "title": "The Korean Language",
+    "author": "Ho-Min Sohn",
+    "type": "history",
+    "why": "Origins, Hangul and dialects of Korean."
+   },
+   {
+    "title": "Please Look After Mom",
+    "author": "Shin Kyung-sook",
+    "type": "literature",
+    "why": "Modern Korean family life."
+   },
+   {
+    "title": "The Vegetarian",
+    "author": "Han Kang",
+    "type": "literature",
+    "why": "Spare, precise contemporary Korean prose."
+   }
+  ],
+  "movies": [
+   {
+    "title": "Parasite",
+    "year": 2019,
+    "platforms": [
+     "Rent/buy: Apple TV, Prime Video"
+    ],
+    "why": "Class differences expressed through speech levels."
+   },
+   {
+    "title": "Crash Landing on You (series)",
+    "year": 2019,
+    "platforms": [
+     "Netflix"
+    ],
+    "why": "Seoul and North Korean dialects side by side."
+   },
+   {
+    "title": "Squid Game (series)",
+    "year": 2021,
+    "platforms": [
+     "Netflix"
+    ],
+    "why": "Simple, repeated everyday phrases."
+   }
+  ]
+ },
+ "Marathi": {
+  "native": "मराठी",
+  "accent": "#c2410c",
+  "books": [
+   {
+    "title": "A History of Marathi Literature",
+    "author": "Kusumavati Deshpande",
+    "type": "history",
+    "why": "A broad survey of Marathi writing across the centuries."
+   },
+   {
+    "title": "Dnyaneshwari",
+    "author": "Sant Dnyaneshwar",
+    "type": "literature",
+    "why": "13th-century work seen as a foundation of Marathi literature."
+   },
+   {
+    "title": "Batatyachi Chal",
+    "author": "P. L. Deshpande",
+    "type": "literature",
+    "why": "Humorous sketches of everyday Marathi life."
+   }
+  ],
+  "movies": [
+   {
+    "title": "Natsamrat",
+    "year": 2016,
+    "platforms": [
+     "Check JustWatch"
+    ],
+    "why": "Theatrical, poetic Marathi from a celebrated play."
+   },
+   {
+    "title": "Sairat",
+    "year": 2016,
+    "platforms": [
+     "Check JustWatch"
+    ],
+    "why": "Rural, spoken Marathi with a famous soundtrack."
+   },
+   {
+    "title": "Court",
+    "year": 2014,
+    "platforms": [
+     "Check JustWatch"
+    ],
+    "why": "Marathi alongside Hindi and English in a courtroom."
+   }
+  ]
+ },
+ "Portuguese": {
+  "native": "Português",
+  "accent": "#047857",
+  "books": [
+   {
+    "title": "Os Lusíadas",
+    "author": "Luís de Camões",
+    "type": "literature",
+    "why": "The epic that helped fix literary Portuguese."
+   },
+   {
+    "title": "Dom Casmurro",
+    "author": "Machado de Assis",
+    "type": "literature",
+    "why": "Brazilian Portuguese at its most subtle and ironic."
+   },
+   {
+    "title": "The Hour of the Star",
+    "author": "Clarice Lispector",
+    "type": "literature",
+    "why": "Short, inventive Brazilian prose."
+   }
+  ],
+  "movies": [
+   {
+    "title": "Central Station",
+    "year": 1998,
+    "platforms": [
+     "Check JustWatch"
+    ],
+    "why": "Clear, warm Brazilian Portuguese."
+   },
+   {
+    "title": "City of God",
+    "year": 2002,
+    "platforms": [
+     "Check JustWatch"
+    ],
+    "why": "Rio slang and street speech."
+   },
+   {
+    "title": "I'm Still Here",
+    "year": 2024,
+    "platforms": [
+     "Check JustWatch"
+    ],
+    "why": "Everyday Brazilian Portuguese during the dictatorship."
+   }
+  ]
+ },
+ "Spanish": {
+  "native": "Español",
+  "accent": "#c2410c",
+  "books": [
+   {
+    "title": "The Story of Spanish",
+    "author": "Jean-Benoit Nadeau & Julie Barlow",
+    "type": "history",
+    "why": "How Latin became a world language, from Castile to the Americas."
+   },
+   {
+    "title": "Don Quixote",
+    "author": "Miguel de Cervantes",
+    "type": "literature",
+    "why": "Spanish is still called 'the language of Cervantes'."
+   },
+   {
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez",
+    "type": "literature",
+    "why": "Latin American Spanish at its most lyrical."
+   }
+  ],
+  "movies": [
+   {
+    "title": "Roma",
+    "year": 2018,
+    "platforms": [
+     "Netflix"
+    ],
+    "why": "Mexican Spanish and Mixtec in everyday family life."
+   },
+   {
+    "title": "Coco",
+    "year": 2017,
+    "platforms": [
+     "Disney+"
+    ],
+    "why": "Music, family and Mexican Spanish, easy to follow."
+   },
+   {
+    "title": "Pan's Labyrinth",
+    "year": 2006,
+    "platforms": [
+     "Rent/buy: Apple TV, Prime Video"
+    ],
+    "why": "Poetic, literary Castilian Spanish."
+   }
+  ]
+ },
+ "Tamil": {
+  "native": "தமிழ்",
+  "accent": "#a21caf",
+  "books": [
+   {
+    "title": "The Smile of Murugan",
+    "author": "Kamil Zvelebil",
+    "type": "history",
+    "why": "A scholarly tour of Tamil literature from its early roots."
+   },
+   {
+    "title": "Thirukkural",
+    "author": "Thiruvalluvar",
+    "type": "literature",
+    "why": "Short couplets on life, among the best-loved Tamil classics."
+   },
+   {
+    "title": "Ponniyin Selvan",
+    "author": "Kalki Krishnamurthy",
+    "type": "literature",
+    "why": "A Tamil historical epic about the Chola dynasty."
+   }
+  ],
+  "movies": [
+   {
+    "title": "Ponniyin Selvan: I",
+    "year": 2022,
+    "platforms": [
+     "Prime Video (India)"
+    ],
+    "why": "The Kalki epic on screen, with literary Tamil."
+   },
+   {
+    "title": "Soorarai Pottru",
+    "year": 2020,
+    "platforms": [
+     "Prime Video (India)"
+    ],
+    "why": "Madurai Tamil and strong everyday dialogue."
+   },
+   {
+    "title": "Jai Bhim",
+    "year": 2021,
+    "platforms": [
+     "Prime Video (India)"
+    ],
+    "why": "Spoken Tamil in a courtroom drama."
+   }
+  ]
+ },
+ "Telugu": {
+  "native": "తెలుగు",
+  "accent": "#0369a1",
+  "books": [
+   {
+    "title": "Classical Telugu Poetry: An Anthology",
+    "author": "Velcheru Narayana Rao & David Shulman",
+    "type": "history",
+    "why": "A guided tour through centuries of Telugu verse."
+   },
+   {
+    "title": "Veyipadagalu",
+    "author": "Viswanatha Satyanarayana",
+    "type": "literature",
+    "why": "A landmark Telugu novel by a Jnanpith-winning author."
+   },
+   {
+    "title": "Maha Prasthanam",
+    "author": "Sri Sri",
+    "type": "literature",
+    "why": "Modern Telugu poetry that broke with older forms."
+   }
+  ],
+  "movies": [
+   {
+    "title": "Sankarabharanam",
+    "year": 1980,
+    "platforms": [
+     "Check JustWatch"
+    ],
+    "why": "Telugu and classical music tied together."
+   },
+   {
+    "title": "Maya Bazaar",
+    "year": 1957,
+    "platforms": [
+     "Check JustWatch"
+    ],
+    "why": "Rich, poetic dialogue from a classic."
+   },
+   {
+    "title": "Mahanati",
+    "year": 2018,
+    "platforms": [
+     "Check JustWatch"
+    ],
+    "why": "Telugu film history told in spoken Telugu."
+   }
+  ]
+ }
+}
