@@ -1,0 +1,50 @@
+{
+"Spanish":{"native":"Español","accent":"#c2410c","books":[
+{"title":"The Story of Spanish","author":"Jean-Benoit Nadeau & Julie Barlow","type":"history","why":"How Latin became a world language, from Castile to the Americas."},
+{"title":"Don Quixote","author":"Miguel de Cervantes","type":"literature","why":"Spanish is still called 'the language of Cervantes'."},
+{"title":"One Hundred Years of Solitude","author":"Gabriel García Márquez","type":"literature","why":"Latin American Spanish at its most lyrical."}],
+"movies":[
+{"title":"Roma","year":2018,"platforms":["Netflix"],"why":"Mexican Spanish and Mixtec in everyday family life."},
+{"title":"Coco","year":2017,"platforms":["Disney+"],"why":"Music, family and Mexican Spanish, easy to follow."},
+{"title":"Pan's Labyrinth","year":2006,"platforms":["Rent/buy: Apple TV, Prime Video"],"why":"Poetic, literary Castilian Spanish."}]},
+"French":{"native":"Français","accent":"#1d4ed8","books":[
+{"title":"The Story of French","author":"Jean-Benoit Nadeau & Julie Barlow","type":"history","why":"From Gaul to la Francophonie, with the politics behind the language."},
+{"title":"Les Misérables","author":"Victor Hugo","type":"literature","why":"The grand register of 19th-century French."},
+{"title":"The Stranger","author":"Albert Camus","type":"literature","why":"Short, plain sentences; a good first French novel."}],
+"movies":[
+{"title":"Amélie","year":2001,"platforms":["Rent/buy: Apple TV, Prime Video"],"why":"Playful Parisian French and wordplay."},
+{"title":"Portrait of a Lady on Fire","year":2019,"platforms":["Rent/buy: Apple TV, Prime Video"],"why":"Slow, clear, beautifully spoken dialogue."},
+{"title":"Lupin (series)","year":2021,"platforms":["Netflix"],"why":"Modern spoken French, including slang."}]},
+"German":{"native":"Deutsch","accent":"#0f766e","books":[
+{"title":"The Awful German Language","author":"Mark Twain","type":"history","why":"A funny outsider's essay on German grammar (in A Tramp Abroad)."},
+{"title":"Faust","author":"Johann Wolfgang von Goethe","type":"literature","why":"The poem that shaped modern literary German."},
+{"title":"The Metamorphosis","author":"Franz Kafka","type":"literature","why":"Precise, compact German prose."}],
+"movies":[
+{"title":"The Lives of Others","year":2006,"platforms":["Rent/buy: Apple TV, Prime Video"],"why":"Careful, formal German in a tense East Berlin."},
+{"title":"Dark (series)","year":2017,"platforms":["Netflix"],"why":"Contemporary German, with dialect touches."},
+{"title":"Run Lola Run","year":1998,"platforms":["Rent/buy: Apple TV, Prime Video"],"why":"Fast, colloquial Berlin German."}]},
+"Japanese":{"native":"日本語","accent":"#be123c","books":[
+{"title":"The Japanese Language","author":"Haruhiko Kindaichi","type":"history","why":"A classic overview of the language's origins and writing systems."},
+{"title":"The Tale of Genji","author":"Murasaki Shikibu","type":"literature","why":"Early 11th-century court prose, a root of Japanese literature."},
+{"title":"Kokoro","author":"Natsume Sōseki","type":"literature","why":"Meiji-era Japanese, widely read in schools."}],
+"movies":[
+{"title":"Spirited Away","year":2001,"platforms":["Netflix (many regions)","HBO Max (US)"],"why":"Clear speech and rich imagery of Japanese folklore."},
+{"title":"Departures","year":2008,"platforms":["Rent/buy: Apple TV, Prime Video"],"why":"Polite language and ritual vocabulary."},
+{"title":"Shoplifters","year":2018,"platforms":["Rent/buy: Apple TV, Prime Video"],"why":"Natural, everyday family conversation."}]},
+"Hindi":{"native":"हिन्दी","accent":"#b45309","books":[
+{"title":"Hindi Sahitya ka Itihas","author":"Ramchandra Shukla","type":"history","why":"The standard history of Hindi literature, in Hindi."},
+{"title":"Godaan","author":"Premchand","type":"literature","why":"Village life and the Hindi-Urdu register of its time."},
+{"title":"Madhushala","author":"Harivansh Rai Bachchan","type":"literature","why":"Rhythmic Hindi verse, loved for its sound."}],
+"movies":[
+{"title":"Taare Zameen Par","year":2007,"platforms":["Check JustWatch: often Netflix or Prime Video in India"],"why":"Clear, warm everyday Hindi."},
+{"title":"Lagaan","year":2001,"platforms":["Check JustWatch: often Netflix or Prime Video in India"],"why":"Awadhi-flavoured Hindi and classic song lyrics."},
+{"title":"Masaan","year":2015,"platforms":["Check JustWatch: often Netflix or Prime Video in India"],"why":"Banaras Hindi with a strong sense of place."}]},
+"Korean":{"native":"한국어","accent":"#6d28d9","books":[
+{"title":"The Korean Language","author":"Ho-Min Sohn","type":"history","why":"Origins, Hangul and dialects of Korean."},
+{"title":"Please Look After Mom","author":"Shin Kyung-sook","type":"literature","why":"Modern Korean family life."},
+{"title":"The Vegetarian","author":"Han Kang","type":"literature","why":"Spare, precise contemporary Korean prose."}],
+"movies":[
+{"title":"Parasite","year":2019,"platforms":["Rent/buy: Apple TV, Prime Video"],"why":"Class differences expressed through speech levels."},
+{"title":"Crash Landing on You (series)","year":2019,"platforms":["Netflix"],"why":"Seoul and North Korean dialects side by side."},
+{"title":"Squid Game (series)","year":2021,"platforms":["Netflix"],"why":"Simple, repeated everyday phrases."}]}
+}

@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Lingua Shelf</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,400;0,600;1,400&family=Work+Sans:wght@400;500&display=swap">
+<style>
+:root{--bg:#f6f7f9;--ink:#1b2030;--mute:#5b6275;--line:#d9dce4;--card:#fff;--a:#1d4ed8}
+@media(prefers-color-scheme:dark){:root{--bg:#12141b;--ink:#eceef5;--mute:#9aa1b5;--line:#2a2e3b;--card:#1a1d27}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:400 16px/1.55 "Work Sans",system-ui,sans-serif}
+main{max-width:760px;margin:0 auto;padding:40px 20px 80px}
+h1{font:600 clamp(2.2rem,7vw,3.6rem)/1.05 Newsreader,Georgia,serif;margin:0 0 8px}
+.lede{color:var(--mute);margin:0 0 28px}
+.langs{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:28px}
+button{font:inherit;cursor:pointer;border:1px solid var(--line);background:var(--card);color:var(--ink);padding:8px 14px;border-radius:999px}
+button[aria-pressed=true]{background:var(--a);border-color:var(--a);color:#fff}
+button:focus-visible{outline:3px solid var(--a);outline-offset:2px}
+h2{font:600 1.5rem Newsreader,Georgia,serif;margin:32px 0 12px;border-bottom:2px solid var(--a);padding-bottom:6px}
+.item{background:var(--card);border:1px solid var(--line);border-left:4px solid var(--a);border-radius:6px;padding:14px 16px;margin-bottom:10px}
+.item h3{margin:0;font:600 1.15rem Newsreader,Georgia,serif}
+.meta{color:var(--mute);font-size:.9rem}
+.item p{margin:6px 0 0}
+.tag{display:inline-block;font-size:.8rem;border:1px solid var(--a);color:var(--a);border-radius:4px;padding:0 6px;margin-left:6px}
+.note{color:var(--mute);font-size:.85rem;margin-top:28px}
+</style></head><body><main>
+<h1 id="title">Lingua Shelf</h1>
+<p class="lede">Pick the language you're learning. Get books on its history and roots, and films that show it at its best.</p>
+<div class="langs" id="langs" role="group" aria-label="Languages"></div>
+<div id="out"></div>
+<p class="note">Streaming availability changes by country. Confirm on JustWatch before you plan a movie night.</p>
+</main>
+<script>
+const out=document.getElementById('out'),box=document.getElementById('langs');
+const el=(t,c,x)=>{const e=document.createElement(t);if(c)e.className=c;if(x!==undefined)e.textContent=x;return e};
+fetch('data/languages.json').then(r=>r.json()).then(D=>{
+ const show=n=>{
+  const L=D[n];document.documentElement.style.setProperty('--a',L.accent);
+  document.getElementById('title').textContent=n+' · '+L.native;
+  box.querySelectorAll('button').forEach(b=>b.setAttribute('aria-pressed',b.textContent===n));
+  out.replaceChildren();
+  out.append(el('h2',0,'Books'));
+  L.books.forEach(b=>{const d=el('div','item');const h=el('h3',0,b.title);h.append(el('span','tag',b.type==='history'?'language history':'rooted author'));
+   d.append(h,el('div','meta',b.author),el('p',0,b.why));out.append(d)});
+  out.append(el('h2',0,'Movies and series'));
+  L.movies.forEach(m=>{const d=el('div','item');
+   d.append(el('h3',0,m.title+' ('+m.year+')'),el('div','meta','Where to watch: '+m.platforms.join(', ')),el('p',0,m.why));out.append(d)});
+ };
+ Object.keys(D).forEach(n=>{const b=el('button',0,n);b.onclick=()=>show(n);box.append(b)});
+ show(Object.keys(D)[0]);
+}).catch(()=>out.textContent='Could not load data/languages.json. Serve the folder with: python -m http.server');
+</script></body></html>
